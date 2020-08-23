@@ -66,6 +66,8 @@ We also explored the `title` method which can work on strings to capitalize the 
 
 > Project Completed | pg. 30
 
+> Notebooks | [1-Beginner-Python](./1-Beginner-Python.ipynb), [2-Project-MeetYourClassmates](./2-Project_MeetYourClassmates.ipynb)
+
 --- 
 
 ## Chapter 5: Numbers
